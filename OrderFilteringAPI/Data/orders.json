@@ -1,0 +1,14 @@
+[
+  {
+    "orderId": "1",
+    "weight": 5.0,
+    "deliveryDistrict": "Central",
+    "deliveryTime": "2024-11-01T10:00:00"
+  },
+  {
+    "orderId": "2",
+    "weight": 3.5,
+    "deliveryDistrict": "West",
+    "deliveryTime": "2024-11-01T10:15:00"
+  }
+]
